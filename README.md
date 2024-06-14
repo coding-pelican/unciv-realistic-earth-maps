@@ -1,2 +1,6 @@
-# unciv-realistic-earth-maps
-'Unciv' user-created maps - earth map add-on mode. By dev-dasae. It is recommended to go to 'Map Editor > Generate > Partial > Spread Resources'.
+# Unciv Mod: Realistic Earth Maps
+
+**Last updated:** April 5, 2023.
+
+**Note:** No resources have been added yet.
+Users should generate resources in the Map Editor.
